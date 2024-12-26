@@ -85,11 +85,7 @@ project-directory/
 - Expand the application to support renewable energy management.
 
 ## Contributors
-- [Your Name]
-- [Contributor Name]
-
-## License
-This project is licensed under the [MIT License](LICENSE).
+- Urbi Purohit
 
 ## Acknowledgments
 - Streamlit documentation
