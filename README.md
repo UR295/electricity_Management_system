@@ -29,7 +29,7 @@ The Electricity Management System is a Streamlit-based web application designed 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/UR295/electricity_Management_system/blob/main>
    ```
 
 2. Navigate to the project directory:
