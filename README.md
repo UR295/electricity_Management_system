@@ -3,7 +3,7 @@ The Electricity Management System is a Streamlit-based web application designed 
 
 ## Features
 
-- **Real-time Energy Monitoring:**
+- **Real-time Energy Monitoring:-**
   - Displays energy consumption of household appliances.
   - Highlights the most energy-consuming appliance in a month.
 
